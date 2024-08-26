@@ -625,7 +625,7 @@ address {
   margin-bottom: 16px;
 }
 
-.form-footer-div {
+.fotter-form {
   display: flex;
   gap: 24px;
 }
